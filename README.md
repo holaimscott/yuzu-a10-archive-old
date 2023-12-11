@@ -1,4 +1,4 @@
-# Yuzu for Android 10
-Please note these are not official builds, but rather builds done by the community to allow for Yuzu to run on Android 10. These builds might not be stable or run the best on your device.
-
-Big thanks to **SapphireRhodonite** who has built these apps!
+# Yuzu for Android 10 (older builds)
+## Please note we moved the builds to a new repo where it's directly forked form the official Yuzu Repository
+Click here to ifnd th enewwer builds:
+https://github.com/holaimscott/yuzu-a10-archive
